@@ -5,7 +5,7 @@ A Simple Voice Assistant that can perform tasks or services for you based on ver
 It can perform following tasks for now.
 
 <h3>Activate/Deactivate commands</h3>
-"Wake up" - To activate assistant
+"Wake up" - To activate assistant<br>
 "Sleep" - To deactivate assistant
 
 <h3>General commands</h3>
